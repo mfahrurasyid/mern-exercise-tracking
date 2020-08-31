@@ -18,6 +18,7 @@
 .env.test.local
 .env.production.local
 /backend/.env
+mern-exercise-tracker/backend/.env
 .env
 
 npm-debug.log*
